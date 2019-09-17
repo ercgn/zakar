@@ -1,8 +1,8 @@
 {
-  "name": "zakarVoiceMemo",
-  "displayName": "Memorizing the Bible by vocally saying it (prototype)",
+  "name": "Zakar",
+  "displayName": "An app that helps with memorizing the Bible",
   "expo": {
-    "name": "zakarVoiceMemo",
+    "name": "Zakar",
     "slug": "expo-template-bare",
     "privacy": "unlisted",
     "sdkVersion": "34.0.0",

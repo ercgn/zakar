@@ -6,13 +6,7 @@ Steps to get Expo started can be found here: https://expo.io/learn
 2. After installing NodeJS, run the following command:
 
 ```
-npm install expo-cli --global
-```
-3. You will be asked to create an Expo account before proceeding.
-
-```
-expo init my-new-project
-cd my-new-project
+npm install
 expo start
 ```
 4. Open Expo Client on your device. Use it to scan the QR code. Voila! You can now open the app!
