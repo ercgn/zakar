@@ -1,4 +1,4 @@
-# basil-zakar
+# Zakar -- A BasilTech Seattle Project
 
 Steps to get Expo started can be found [here](https://expo.io/learn)
 
