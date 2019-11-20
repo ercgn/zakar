@@ -59,6 +59,7 @@ export default class App extends React.Component<any, any> {
         return (
             <View style={styles.container} >
                 <Text>{this.state.scripture.verse}</Text>
+                <Text>{this.state.scripture.reference}</Text>
             </View>
         );
     }

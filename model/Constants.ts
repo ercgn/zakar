@@ -1,3 +1,3 @@
-export declare module Constants {
-    export const CeaselessBaseUrl = "https://api.ceaselessprayer.com/v1/getScripture";
+export class Constants {
+    public static readonly CeaselessBaseUrl = "https://api.ceaselessprayer.com/v1/getScripture";
 }
